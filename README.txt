@@ -1,9 +1,1 @@
-BRNSY PROPS matchup frontend fix
-
-Replace ONLY:
-assets/app.js
-
-Commit & Push to main. Pages should deploy automatically.
-
-The game tabs now prefer the new `matchup` field produced by process_props.py.
-Example: TOR @ MTL instead of GAME NdcUpE.
+Replace ONLY scripts/process_props.py. Commit & Push. Then manually run Update NHL prop data. The existing frontend already reads the matchup field; no frontend replacement is needed.
