@@ -1,0 +1,42 @@
+{
+  "mode": "preview",
+  "updated": "Preview \u2014 add API secret for live odds",
+  "props": [
+    {
+      "id": "p1",
+      "gameId": "p1",
+      "player": "Preview Skater",
+      "team": "TOR",
+      "opponent": "MTL",
+      "market": "Shots on Goal",
+      "side": "Over",
+      "line": 2.5,
+      "odds": -110,
+      "book": "Consensus",
+      "l5": 0.8,
+      "l10": 0.7,
+      "l20": 0.65,
+      "season": 0.67,
+      "gap": 0.146,
+      "result": null
+    },
+    {
+      "id": "p2",
+      "gameId": "p2",
+      "player": "Preview Goalie",
+      "team": "NYR",
+      "opponent": "BOS",
+      "market": "Goalie Saves",
+      "side": "Over",
+      "line": 27.5,
+      "odds": 105,
+      "book": "Consensus",
+      "l5": 0.6,
+      "l10": 0.7,
+      "l20": 0.6,
+      "season": 0.62,
+      "gap": 0.132,
+      "result": null
+    }
+  ]
+}
