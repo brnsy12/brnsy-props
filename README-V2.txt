@@ -1,0 +1,1 @@
+Replace ONLY index.html, assets/style.css, and assets/app.js in the existing repo. Do not replace data/ or scripts/. Commit to main, then deploy.
